@@ -1,0 +1,7 @@
+.lipstick-collection{
+    padding-right: 10px;
+}
+
+.lipstick-collection:hover{
+    color: black;
+}
