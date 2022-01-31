@@ -29,7 +29,7 @@ const ExploreMore = () => {
 
                 </Row>
             </Container>
-            <Footer></Footer>
+
         </div>
     );
 };

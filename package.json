@@ -44,5 +44,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was About a Online lipstick sell store platform [visit site](https://github.com/facebook/create-react-app). Since 2015, we’ve sell more than 100,000 products in this year.We always provide a best brand products and also Qualityfull Products.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foyjunnesa/Lipstick-Collection-Client-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foyjunnesa/Lipstick-Collection-Client-Site/issues"
+  },
+  "homepage": "https://github.com/foyjunnesa/Lipstick-Collection-Client-Site#readme"
 }

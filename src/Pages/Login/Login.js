@@ -58,7 +58,7 @@ const Login = () => {
                     </Grid>
                 </Grid>
             </Container>
-            <Footer></Footer>
+
         </div>
     );
 };
