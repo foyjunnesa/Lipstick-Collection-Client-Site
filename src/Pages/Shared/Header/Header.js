@@ -28,7 +28,7 @@ const Header = () => {
 
                         <NavLink to="/exploremore" style={{ textDecoration: "none", fontSize: "20px", marginRight: "10px", padding: "6px", color: "red" }}>Explore More</NavLink>
 
-                        <Button to="/login" variant="dark" style={{ textDecoration: "none", fontSize: "20px", marginRight: "10px", paddingTop: "3px", paddingBottom: "6px", paddingLeft: "10px", paddingRight: "10px", color: "white" }} >Login <i className="fas fa-sign-out-alt"></i></Button>
+                        <Link to="/login"> <Button variant="dark" style={{ textDecoration: "none", fontSize: "20px", marginRight: "10px", paddingTop: "3px", paddingBottom: "6px", paddingLeft: "10px", paddingRight: "10px", color: "white" }} >Login <i className="fas fa-sign-out-alt"></i></Button></Link>
 
 
                         {/* <NavLink to="/exploremore" style={{ textDecoration: "none", fontSize: "20px", marginRight: "10px", padding: "6px", color: "red" }}  >Explore More</NavLink> */}

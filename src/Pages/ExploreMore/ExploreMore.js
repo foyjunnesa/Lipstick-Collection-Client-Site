@@ -14,10 +14,10 @@ const ExploreMore = () => {
     return (
         <div>
             <Container>
-                <p className="text-center text-success"> <hr /></p>
+                <p className="text-center text-danger"> <hr /></p>
                 <Slide top>
-                    <h3 className="text-center text-muted mb-5"> <span className="fw-bold text-success" style={{ fontSize: "30px", fontFamily: 'cursive' }}>
-                        <i className="fas fa-biking"></i> Featured Product</span></h3>
+                    <h3 className="text-center text-muted mb-5"> <span className="fw-bold text-danger" style={{ fontSize: "30px", fontFamily: 'cursive' }}>
+                        <i class="far fa-grin-hearts"></i> Featured Product</span></h3>
                 </Slide>
 
                 <Row xs={1} md={3} className="g-4">
