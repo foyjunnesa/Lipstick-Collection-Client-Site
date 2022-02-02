@@ -1,0 +1,9 @@
+.not-found{
+    margin-bottom: 100px;
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+
+.not-found h5{
+    font-family: cursive;
+}
