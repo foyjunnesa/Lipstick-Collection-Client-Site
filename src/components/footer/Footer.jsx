@@ -49,9 +49,6 @@ const Footer = () => {
                 <p> <small> © Copyright 2022 | Designed By <span style={{ color: "orange", fontWeight: "bold" }}>Foyjunnesa Mayna</span> | All Rights Reserved </small></p>
 
             </div>
-
-            {/* <div className="container"></div>
-            <p className="footer-copyright">&copy; 2022 Lorem ipsum, dolor</p> */}
         </div>
     );
 };
